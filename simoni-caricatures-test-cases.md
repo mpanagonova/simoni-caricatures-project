@@ -1,6 +1,6 @@
 # Simoni Caricatures Website - Manual Test Cases
 
-| TC ID | Test Scenario | Preconditions | Test Steps | Test Data | Expected Result | Status | Comments |
+| TC ID | Description | Preconditions | Test Steps | Test Data | Expected Result | Status | Comments |
 |------|---------------|---------------|------------|-----------|-----------------|--------|----------|
 | TC-001 | Verify homepage loads successfully | User opens the website in a browser | 1. Open the website URL | Valid URL | Homepage loads without errors and main sections are visible | Pass |  |
 | TC-002 | Verify header logo redirects to homepage | Website is open | 1. Click on the logo in the header | N/A | User is redirected to the homepage | Pass |  |
